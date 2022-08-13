@@ -1,0 +1,8 @@
+{
+    "name":"comment",
+    "environment":["app","browser"],
+    "auth":"leolee",
+    "url":"",
+    "describe":"langzhou的comment功能移植,原项目参考https://github.com/langzhou/siyuan-note/tree/main/siyuan-comment",
+    "version":"0.0.1"
+}
